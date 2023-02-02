@@ -1,2 +1,2 @@
 # ensino-musical
-Uma prataforma voltada ao ensino da musica.
+Uma plataforma voltada ao ensino da música.
